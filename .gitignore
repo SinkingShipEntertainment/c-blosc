@@ -1,1 +1,5 @@
 bench/bench
+
+# REZ and VSCode
+_rez_build
+.vscode
